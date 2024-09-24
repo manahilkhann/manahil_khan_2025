@@ -49,7 +49,6 @@ hide: true
    transform: scale(1.1);
  }
 
-
  button:active {
    transform: scale(0.95);
  }
