@@ -17,53 +17,44 @@ permalink: /about/
             background-color: #f4f4f4;
             color: #333;
         }
-
         .container {
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
         }
-
         .section {
             margin-bottom: 40px;
         }
-
         .section h2 {
             color: #0056b3;
             margin-bottom: 10px;
         }
-
         .section img {
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
-
         .gallery {
             display: flex;
             overflow-x: auto;
             gap: 10px;
             padding: 10px 0;
         }
-
         .gallery-item {
             flex: 0 0 auto;
             width: 360px;
             height: 245px;
         }
-
         .gallery-item img {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
-
         .cta {
             display: flex;
             justify-content: center;
             gap: 20px;
             margin: 20px 0;
         }
-
         .cta button, .cta a button {
             background-color: white;
             border: 2px solid blue;
@@ -74,7 +65,6 @@ permalink: /about/
             font-size: 16px;
             transition: background-color 0.3s, color 0.3s;
         }
-
         .cta button:hover, .cta a button:hover {
             background-color: blue;
             color: white;
@@ -92,7 +82,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I lived in England for 7 years ☕️</h2>
             <div class="gallery">
@@ -101,7 +90,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I have been to 2 Coldplay concerts 🎤</h2>
             <div class="gallery">
@@ -110,7 +98,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I have been on the Varsity golf team for 3 years 🏌️‍♀️</h2>
             <div class="gallery">
@@ -119,7 +106,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I play lacrosse 🥍</h2>
             <div class="gallery">
@@ -128,7 +114,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I have been to 13 countries ✈️</h2>
             <div class="gallery">
@@ -137,7 +122,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I love Marvel 🍿</h2>
             <div class="gallery">
@@ -146,7 +130,6 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <div class="section">
             <h2>I have a British Shorthair cat 🐈</h2>
             <div class="gallery">
@@ -155,13 +138,11 @@ permalink: /about/
                 </div>
             </div>
         </div>
-
         <!-- Call to Action Section -->
         <div class="cta">
             <p>Mysterious... Click This</p>
             <button>Button</button>
         </div>
-
         <!-- Favorite Songs Section -->
         <div class="cta">
             <p>Some of my favorite songs 🎧</p>
