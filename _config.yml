@@ -3,7 +3,7 @@ description: "Class of 2026"
 owner_name: Manahil Khan
 github_username: manahilkhann
 github_repo: "manahil_khan_2025" 
-baseurl: "/manahil_khan_2025"
+baseurl: "/manahil_khan_2025/"
 future: true
 remote_theme: pages-themes/cayman@v0.2.0
 minima:
